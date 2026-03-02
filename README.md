@@ -13,7 +13,7 @@
     <details>
 <summary>$\color{#92d168}{\textsf{About me}}$</summary>
 
-$\color{#bdcd82}{\textsf{Hello! I am Matthew or Gabriel... or even Artemy!}}$<br>$\color{#bdcd82}{\textsf{I am 16, born on September 1st! I like to draw, play an ungodly amount of roblox, and snooze... ya snooze ya lose!}}$
+$\color{#bdcd82}{\textsf{hello!  am matthew or gabriel... or even artemy! i am 16, born on september 1st! i like to draw, play an ungodly amount of roblox, and}}$<br>$\color{#bdcd82}{\textsf{sleep... sometimes im asleep while playing ponytown LOL. surprisingly, i am not religious, but i do enjoy the concept and researching!}}$
 
   </details>
          </td>
@@ -41,7 +41,7 @@ $\color{#bdcd82}{\textsf{My interests are, and not limited to...}}$<br>$\color{#
 <details>
 <summary>$\color{#4c6e5a}{\textsf{Kins}}$</summary>
 
-$\color{#bdcd82}{\textsf{List of Kins from highest to lowest}}$<br>$\color{#bdcd82}{\textsf{Gabriel (ULTRAKILL), Mirage (ULTRAKILL), Artemy Burakh (Pathologic 2), John Ward (FAITH), Wikilius (GnB), Hank j. Wimbleton (MADCOM)}}$
+$\color{#bdcd82}{\textsf{List of Kins from highest to lowest}}$<br>$\color{#bdcd82}{\textsf{Gabriel (ULTRAKILL), Mirage (ULTRAKILL), Artemy Burakh (Pathologic 2), John Ward (FAITH), Wikilius (GnB)}}$
 
 
 </details>
