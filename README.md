@@ -13,7 +13,7 @@
     <details>
 <summary>$\color{#92d168}{\textsf{About me}}$</summary>
 
-$\color{#bdcd82}{\textsf{hello!  am matthew or gabriel... or even artemy! i am 16, born on september 1st! i like to draw, play an ungodly amount of roblox, and}}$<br>$\color{#bdcd82}{\textsf{sleep... sometimes im asleep while playing ponytown LOL. surprisingly, i am not religious, but i do enjoy the concept and researching!}}$
+$\color{#bdcd82}{\textsf{hello!  am matthew or gabriel... or even artemy! i am 16, born on september 1st! i like to draw, play an ungodly amount of roblox, and}}$<br>$\color{#bdcd82}{\textsf{sleep... sometimes im asleep while playing ponytown LOL. surprisingly, i am not religious, but i do enjoy researching!}}$
 
   </details>
          </td>
