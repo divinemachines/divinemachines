@@ -60,7 +60,7 @@ $\color{#bdcd82}{\textsf{list of kins from highest to lowest}}$<br>$\color{#bdcd
 <br>
 <br>
 
-<a href="https://7tries.straw.page/"><img align="left" src="https://drive.google.com/uc?id=1X4LbD27krFuDWzKqitjsREP8_C-4_RJR" title="Strawpage" width=150px/></a>
+<a href="https://foolishg.straw.page"><img align="left" src="https://drive.google.com/uc?id=1X4LbD27krFuDWzKqitjsREP8_C-4_RJR" title="Strawpage" width=150px/></a>
 <br>
 <br>
 <a href="https://haruuspex.atabook.org/"><img align="left" src="https://drive.google.com/uc?id=1wgLchvHm2lKBCEdP9ywcCY3LenDbLuaz" title="Atabook" width=150px/></a>
